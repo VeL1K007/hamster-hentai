@@ -1,4 +1,4 @@
-// js/script.js
+// script.js
 document.addEventListener('DOMContentLoaded', function() {
     const hamster = document.getElementById('hamster');
     const hentaiLinks = [
