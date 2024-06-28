@@ -1,0 +1,28 @@
+/* css/styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#hamster {
+    width: 200px;
+    cursor: pointer;
+}
+
+#hentai-container {
+    margin-top: 20px;
+}
+
+.hentai-image {
+    width: 400px;
+    height: auto;
+}
