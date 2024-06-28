@@ -1,4 +1,4 @@
-/* css/styles.css */
+/* styles.css */
 body {
     display: flex;
     justify-content: center;
@@ -22,7 +22,6 @@ body {
     margin-top: 20px;
 }
 
-.hentai-image {
-    width: 400px;
-    height: auto;
+.hentai-item {
+    margin-top: 10px;
 }
